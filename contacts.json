@@ -1,0 +1,22 @@
+{
+  "contacts_list": [
+    {
+      "name": "Edijs",
+      "surname": "Egl\u012btis",
+      "number": "+371 26074332",
+      "email": "edijs@inbox.lv"
+    },
+    {
+      "name": "El\u012bna",
+      "surname": "Egl\u012bte",
+      "number": "+371 28816565",
+      "email": "elina@inbox.lv"
+    },
+    {
+      "name": "Krist\u012bne",
+      "surname": "B\u016bce",
+      "number": "+371 26321321432",
+      "email": "kika@inbox.lv"
+    }
+  ]
+}
